@@ -1,0 +1,4 @@
+rootProject.name = 'data-structures-algorithms'
+
+include "algorithms"
+include "data-structures"

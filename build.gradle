@@ -1,0 +1,21 @@
+// configuration for sub projects
+subprojects{
+    apply plugin: "java"
+
+    repositories{
+        mavenCentral()
+    }
+
+    dependencies{
+        compile "org.slf4j:slf4j-api:1.7.5"
+		compile "org.slf4j:slf4j-log4j12:1.7.5"
+		compileOnly "org.projectlombok:lombok:1.18.6"
+    }
+}
+
+// configuration for all projects
+allprojects{
+    repositories{
+        mavenCentral()
+    }
+}
