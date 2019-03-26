@@ -75,3 +75,4 @@ folder1
 taskArtifacts
 */bin/*
 */build/*
+*/logs/*
