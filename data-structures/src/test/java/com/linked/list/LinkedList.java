@@ -33,4 +33,5 @@ public class LinkedList {
 
 		log.info("result={}", result);
 	}
+
 }
