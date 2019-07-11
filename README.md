@@ -1,3 +1,3 @@
 # Data Structures Algorithms practice examples
-- Data Structres
-- Algorithms
+* [Data Structres](data-structures)
+* [Algorithms](algorithms)
