@@ -13,6 +13,7 @@
 * The Coding Interview Bootcamp: Algorithms + Data Structures
 * Data Structures and Algorithms: Deep Dive Using Java
 * Master the Coding Interview: Data Structures + Algorithms
+* Advanced Algorithms in Java
 
 ### Youtube
 * https://www.youtube.com/watch?v=YWnBbNj_G-U
